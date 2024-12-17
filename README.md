@@ -1,17 +1,17 @@
 # Roadmap.sh - Task Tracker - Typescript
 
-[Roadmap.sh](https://roadmap.sh)
-[Task Tracker Project](https://roadmap.sh/projects/task-tracker)
+[Tiktok](https://www.tiktok.com/@vitualizzLP) | [Roadmap.sh](https://roadmap.sh) | [Task Tracker Project](https://roadmap.sh/projects/task-tracker)
 
 ---
 
-## * Requirements *
+## *Requirements*
+
 - **Node.js** >= 18.17.0
 - **npm**
 
 ---
 
-## * Installation *
+## *Installation*
 
 1. Clone the repository
 ```bash
@@ -31,7 +31,7 @@ npx ts-node src/cli.ts
 
 ---
 
-## * Usage *
+## *Usage*
 
 - **Add a task**
 ```bash
